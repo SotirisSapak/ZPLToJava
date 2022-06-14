@@ -225,6 +225,9 @@ Result:
 
 ### There are many more methods to play with...so feel free to explore this library!
 
+## Important
+This library was not tested in real ZPL printer.
+
 ## Copyright 
 ```copyright 
 Copyright 2022 SotirisSapak
